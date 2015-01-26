@@ -1,1 +1,0 @@
-CSVconverter es un parseador de ficheros de texto con diferentes formatos a CSV

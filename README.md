@@ -1,4 +1,3 @@
 CSVconverter
 ============
-
-Converts CSV files into a fixed format delimiter
+Simple CSV converter. It converts CSV files into a fixed format delimiter
